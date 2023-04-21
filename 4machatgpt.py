@@ -1,9 +1,9 @@
 import telebot
 import time
-bot = telebot.TeleBot("6296471869:AAEQZy1Ojefa3VL3RT4fWgZdEsek6gcrW-8")
+bot = telebot.TeleBot("###############")
 
 import openai
-openai.api_key = "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"
+openai.api_key = "###############"
 
 # Define the message handler for the /start command
 @bot.message_handler(commands=['start'])
