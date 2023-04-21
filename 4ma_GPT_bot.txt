@@ -1,3 +1,3 @@
-4ma_chatGPT_bot
-GPT4mabot
-6296471869:AAEQZy1Ojefa3VL3RT4fWgZdEsek6gcrW-8
+Chatbot address: https://t.me/GPT4mabot
+Chatbot name: 4ma_chatGPT_bot
+Token: 6296471869:AAEQZy1Ojefa3VL3RT4fWgZdEsek6gcrW-8
